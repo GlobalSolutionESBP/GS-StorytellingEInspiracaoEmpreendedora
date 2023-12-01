@@ -1,6 +1,6 @@
 <div align='center'>
     <br>
-    <h1> Análise de MErcado: Prontuários Eletrônicos </h1>
+    <h1> Análise de Mercado: Prontuários Eletrônicos </h1>
 </div>
 
 <br> 

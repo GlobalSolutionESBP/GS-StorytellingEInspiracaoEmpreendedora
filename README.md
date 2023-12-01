@@ -47,13 +47,13 @@ Pelo fato dos prontuários médicos ainda não serem digitais na grande parte do
 <details>
 <summary> Link PowerPoint</summary>
 <li>
-    <a href="https://fiapcom-my.sharepoint.com/:p:/g/personal/rm553746_fiap_com_br/EYO09a_l9DxIlziw_hPrEK4BtFe44DIFDYdqWMviP5gwYQ?e=uJGFTB"></a>
+    <a href="https://fiapcom-my.sharepoint.com/:p:/g/personal/rm553746_fiap_com_br/EYO09a_l9DxIlziw_hPrEK4BtFe44DIFDYdqWMviP5gwYQ?e=uJGFTB"> Automatização de Prontuários Médicos </a>
 </li>
 </details>
 
 <details>
 <summary>Link Youtube</summary>
 <li>
-    <a href="https://youtu.be/VS3ULU3dA8o"></a>
+    <a href="https://youtu.be/VS3ULU3dA8o"> Pitch </a>
 </li>
 </details>
